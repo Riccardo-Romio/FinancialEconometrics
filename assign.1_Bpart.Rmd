@@ -3,6 +3,7 @@ title: "Report for PS 1"
 author:
 - Yukai Yang
 - Another Author
+- Riccardo 2
 date: ""
 output:
   html_document:
