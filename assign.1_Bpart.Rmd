@@ -2,7 +2,7 @@
 title: "Report for PS 1"
 author:
 - Yukai Yang
-- Another Author
+- Riccardo
 - Riccardo 2
 date: ""
 output:
