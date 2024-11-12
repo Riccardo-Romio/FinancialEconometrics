@@ -4,6 +4,8 @@ author:
 - Yukai Yang
 - Riccardo
 - Riccardo 2
+- SOME TEST
+
 date: ""
 output:
   html_document:
