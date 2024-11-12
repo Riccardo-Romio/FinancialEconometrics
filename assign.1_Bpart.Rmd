@@ -20,6 +20,7 @@ toc: no
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(FE)
+library(ggplot2)
 ```
 
 
